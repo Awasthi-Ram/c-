@@ -1,0 +1,1 @@
+{"name":"Local: FUNdecimaltohexadecimal","url":"c:\\aman\\FUNdecimaltohexadecimal.cpp","tests":[{"id":1636268893943,"input":"15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\aman\\FUNdecimaltohexadecimal.cpp","group":"local","local":true}

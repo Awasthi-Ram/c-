@@ -1,0 +1,1 @@
+{"name":"Local: FUNdecimaltobinary","url":"c:\\aman\\FUNdecimaltobinary.cpp","tests":[{"id":1636207065294,"input":"12","output":"101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\aman\\FUNdecimaltobinary.cpp","group":"local","local":true}

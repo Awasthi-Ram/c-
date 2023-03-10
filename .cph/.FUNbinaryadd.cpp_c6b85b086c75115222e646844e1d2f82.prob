@@ -1,0 +1,1 @@
+{"name":"Local: FUNbinaryadd","url":"c:\\aman\\FUNbinaryadd.cpp","tests":[{"id":1636284622108,"input":"100101\n110010","output":"10011010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\aman\\FUNbinaryadd.cpp","group":"local","local":true}
